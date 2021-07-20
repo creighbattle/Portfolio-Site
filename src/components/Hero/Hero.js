@@ -13,7 +13,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+        Hi, I'm Creigh Battle, a software developer from New Jersey, United States. I enjoy all of the technologies involved in full stack development and am very eager to increase my knowledge on the topic!
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
