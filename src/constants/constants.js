@@ -1,5 +1,15 @@
 export const projects = [
   {
+    title: "Airbnb Clone",
+    description:
+      "Using Next.js and TailwindCss, I developed a beautiful clone of Airbnb!",
+    image: "/images/airbnb.png",
+    tags: ["Next.js", "TailwindCss", "Vercel"],
+    source: "https://airbnb-clone-six-pi.vercel.app/",
+    visit: "https://github.com/creighbattle/foodfinder-frontend",
+    id: 0,
+  },
+  {
     title: "Recipie Search",
     description:
       "Using React, Node.js, Express, Postgresql, & Edamam Api, I developed a site that allows you to search & save new recipies.",
@@ -28,16 +38,6 @@ export const projects = [
     source: "https://creighbattle.github.io/BakeryDemo/",
     visit: "https://github.com/creighbattle/BakeryDemo",
     id: 2,
-  },
-  {
-    title: "Merge Sort Visualizer",
-    description:
-      "With the use of React and p5.js, I developed a site that allows you to visualize what is going on during the merge sort.",
-    image: "/images/Merge-Image.png",
-    tags: ["React", "p5.js"],
-    source: "https://stoic-morse-dfcdef.netlify.app/",
-    visit: "https://github.com/creighbattle/Merge-Sort",
-    id: 3,
   },
 ];
 
