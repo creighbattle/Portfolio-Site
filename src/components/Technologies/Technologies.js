@@ -19,7 +19,7 @@ const Technologies = () => (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world. From
+      I've worked with a range of technologies in the web development world. From
       Back-end To Front-end.
     </SectionText>
     <List>
@@ -45,7 +45,21 @@ const Technologies = () => (
           <ListParagraph>
             Experience with <br />
             Node, Postgresql <br />
-            Express, and Firebase
+            Express, MySql, <br />
+            Spring Boot, and Firebase
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <picture>
+          <DiFirebase size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Dev-Ops</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            Jenkins, SonarQube <br />
+            Jacoco, and Selenium
           </ListParagraph>
         </ListContainer>
       </ListItem>

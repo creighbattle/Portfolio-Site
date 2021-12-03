@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I'm a software developer from New Jersey, United States. I enjoy all of the technologies involved in full stack development and am very eager to increase my knowledge on the topic!
+      I'm a software developer from New Jersey. In my free time, I enjoy hanging with friends and hitting the gym.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

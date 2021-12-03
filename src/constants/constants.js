@@ -17,7 +17,7 @@ export const projects = [
     tags: ["Postgresql", "Express", "React", "Node", "Material-UI"],
     source: "https://boring-lichterman-51f30d.netlify.app/",
     visit: "https://github.com/creighbattle/foodfinder-frontend",
-    id: 0,
+    id: 1,
   },
   {
     title: "Netflix Clone",
@@ -27,7 +27,7 @@ export const projects = [
     tags: ["React", "JavaScript", "CSS"],
     source: "https://netflix-clone-91a3f.web.app/",
     visit: "https://github.com/creighbattle/Netflix-Clone",
-    id: 1,
+    id: 2,
   },
   {
     title: "Bakery Demo",
@@ -37,7 +37,17 @@ export const projects = [
     tags: ["HTML", "CSS", "Javascript"],
     source: "https://creighbattle.github.io/BakeryDemo/",
     visit: "https://github.com/creighbattle/BakeryDemo",
-    id: 2,
+    id: 3,
+  },
+  {
+    title: "Personal Project Management Tool",
+    description:
+      "Full stack production ready application. This site is a service like Jira; it allows you to keep track of personal projects.",
+    image: "/images/PPMImage.png",
+    tags: ["React", "Spring Boot", "Maven", "Jenkins"],
+    source: "https://ppm-frontend-team.vercel.app/",
+    visit: "https://github.com/creigh-battle/PpmBackendTeam",
+    id: 3,
   },
 ];
 
@@ -51,5 +61,9 @@ export const TimeLineData = [
   {
     year: 2021,
     text: "Developed my own websites and deployed them on the web",
+  },
+  {
+    year: 2021,
+    text: "Full stack developer at HCL Tech",
   },
 ];
